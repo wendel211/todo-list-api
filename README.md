@@ -148,8 +148,6 @@ npm run lint
 npm run format
 ```
 
----
-
 ## 📄 Licença
 
 Este projeto está licenciado sob a licença **ISC**.
